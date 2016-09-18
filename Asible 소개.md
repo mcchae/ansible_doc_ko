@@ -889,7 +889,8 @@ gather_subset = all
 # Don't gather hardware facts, facts from chef's ohai or puppet's facter
 gather_subset = !hardware,!ohai,!facter
 ```
-위와 같이 콤마로 목록을 줄 수도 있고 `!`을 이용하여 제외하고 의미를 가질 수도 있습니다.
+
+위와 같이 콤마로 목록을 줄 수도 있고 `!`을 이용하여 제외하고 의미를 가질 수도 있습니다.
 
 만약 아주 기본적인 것을 제외한 모든 팩트를 가져오지 않으려면,
 
