@@ -9,6 +9,16 @@ $ pip install ansible
 
 [설치하기 참조](https://docs.ansible.com/ansible/intro_installation.html)
 
+만약 최신버전 (2.2) 으로 설치하려면
+
+```sh
+$ pip install git+git://github.com/ansible/ansible.git@devel
+```
+라고 개발자 버전을 설치합니다. (현재 문서는 대부분 2.2의 내용을 언급하므로 위와 같이 설치하시기를 권고해 드립니다.)
+
+> **역자노트:** 위에 내용은 시스템 파이썬이 아니라 VirtualEnv 환경에서의 설치입니다. 시스템 파이썬에 설치할 경우에는 `sudo pip ...` 라고 명령을 수행하십시오.
+
+
 ## 시작하기
 
 ### 원격 연결
@@ -1484,18 +1494,3 @@ command 모듈은 여러번 나올 수도 있습니다.
 ```
 
 위의 예제에서는 Ethernet4, 5를 확인(show interface) 하는 명령을 수행하고 그 결과를 조사합니다. waitfor 모듈의 결과는 항상 result로 나오며 앞 명령의 순서대로 [0], [1], ... 과 같은 순서로 지정하여 결과를 확인합니다.
-
-​
-
-
-
-
-
-
-
-
-
-
-
-
-
