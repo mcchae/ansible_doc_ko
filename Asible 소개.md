@@ -27,7 +27,7 @@ $ pip install git+git://github.com/ansible/ansible.git@devel
 * 만약 암호를 물어보는 것이 필요하면 `--ask-pass` 옵션 사용
 * 만약 sudo를 이용한 암호확인 이라면 `--ask-become-pass` 이용
 
-> **노트** : 1.3 버전 이후부터는 파이썬의 OpenSSH 를 이용하여 하였고 1.2 부터는 `paramiko`라는 파이썬 SSH 모듈을 이용
+> **노트** : 1.3 버전 이후부터는 파이썬의 OpenSSH 를 이용하여 하였고 1.2 부터는 `paramiko`라는 파이썬 SSH 모듈을 이용
 
 ### 첫번째 명령
 
