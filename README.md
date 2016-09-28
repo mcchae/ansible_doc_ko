@@ -20,22 +20,7 @@
 
 ### [Docker 이용하기](GettingStartedWithDocker.md)
 
-## *[개발자 정보](http://docs.ansible.com/ansible/developing.html) <원본>*
-
-### *[파이썬 API](http://docs.ansible.com/ansible/developing_api.html) <원본>*
-
-### *[동적 인벤토리 소스 개발](http://docs.ansible.com/ansible/developing_inventory.html) <원본>*
-
-### *[모듈 개발](http://docs.ansible.com/ansible/developing_modules.html) <원본>*
-
-### *[플러그인 개발](http://docs.ansible.com/ansible/developing_plugins.html) <원본>*
-
-### *[핵심 모듈 개발](http://docs.ansible.com/ansible/developing_core.html) <원본>*
-
-### *[Helping Testing PRs](http://docs.ansible.com/ansible/developing_test_pr.html) <원본>*
-
-### *[Release](http://docs.ansible.com/ansible/developing_releases.html) <원본>*
-
+## [개발자 정보](개발정보.md)
 
 ## *[Ansible Galaxy](http://docs.ansible.com/ansible/galaxy.html) <원본>*
 
