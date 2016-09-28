@@ -20,7 +20,7 @@
 
 ### [Docker 이용하기](GettingStartedWithDocker.md)
 
-## [개발자 정보](개발정보.md)
+## [개발 정보](개발정보.md)
 
 ## *[Ansible Galaxy](http://docs.ansible.com/ansible/galaxy.html) <원본>*
 
