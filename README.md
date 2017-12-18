@@ -6,13 +6,13 @@
 > - <원본> 이라고 표시된 부분은 해당 원본 링크를 그대로 연결한 것입니다.
 > - 전체 문서 중 Quick Guid 정도는 완성 (전체 문서의 20%정도) 되었다고 보면 됩니다.
 
-##[Ansible 소개](Asible%20소개.md)
+## [Ansible 소개](Asible%20소개.md)
 
-##*[빨리 익히는 Ansible 동영상](https://www.ansible.com/quick-start-video) <원본>*
+## *[빨리 익히는 Ansible 동영상](https://www.ansible.com/quick-start-video) <원본>*
 
-##[플레이북](플레이북.md)
+## [플레이북](플레이북.md)
 
-##*[플레이북:특정 주제](http://docs.ansible.com/ansible/playbooks_special_topics.html) <원본>*
+## *[플레이북:특정 주제](http://docs.ansible.com/ansible/playbooks_special_topics.html) <원본>*
 
 ## [모듈](모듈.md)
 
